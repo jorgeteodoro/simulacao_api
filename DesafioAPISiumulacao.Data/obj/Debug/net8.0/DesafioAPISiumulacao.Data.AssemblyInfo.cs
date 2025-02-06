@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioAPISiumulacao.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b79585ee9de3e0e9a0fb31ac734e80b1ac38376")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2af8a2d1071778cc085a7c504d88559c16d9af1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioAPISiumulacao.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioAPISiumulacao.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
