@@ -17,3 +17,4 @@ C:\projetos\Desafio\DesafioAPISimulacao.Application\obj\Debug\net8.0\refint\Desa
 C:\projetos\Desafio\DesafioAPISimulacao.Application\obj\Debug\net8.0\DesafioAPISimulacao.Application.pdb
 C:\projetos\Desafio\DesafioAPISimulacao.Application\obj\Debug\net8.0\DesafioAPISimulacao.Application.genruntimeconfig.cache
 C:\projetos\Desafio\DesafioAPISimulacao.Application\obj\Debug\net8.0\ref\DesafioAPISimulacao.Application.dll
+C:\projetos\Desafio\DesafioAPISimulacao.Application\obj\Debug\net8.0\DesafioAPISimulacao.Application.sourcelink.json

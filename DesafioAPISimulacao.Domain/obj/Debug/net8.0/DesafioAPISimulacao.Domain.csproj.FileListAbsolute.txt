@@ -9,3 +9,4 @@ C:\projetos\Desafio\DesafioAPISimulacao.Domain\obj\Debug\net8.0\DesafioAPISimula
 C:\projetos\Desafio\DesafioAPISimulacao.Domain\obj\Debug\net8.0\refint\DesafioAPISimulacao.Domain.dll
 C:\projetos\Desafio\DesafioAPISimulacao.Domain\obj\Debug\net8.0\DesafioAPISimulacao.Domain.pdb
 C:\projetos\Desafio\DesafioAPISimulacao.Domain\obj\Debug\net8.0\ref\DesafioAPISimulacao.Domain.dll
+C:\projetos\Desafio\DesafioAPISimulacao.Domain\obj\Debug\net8.0\DesafioAPISimulacao.Domain.sourcelink.json
